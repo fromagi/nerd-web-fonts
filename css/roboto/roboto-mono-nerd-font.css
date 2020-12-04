@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Roboto Mono";
+  font-weight: normal;
+  font-style: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete.ttf") format('truetype');
+
+@font-face {
+  font-family: "Roboto Mono";
+  font-weight: normal;
+  font-style: italic;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete.ttf") format('truetype');
+
+@font-face {
+  font-family: "Roboto Mono";
+  font-weight: bold;
+  font-style: normal;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete.ttf") format('truetype');
+
+@font-face {
+  font-family: "Roboto Mono";
+  font-weight: bold;
+  font-style: italic;
+  src: url("https://cdn.jsdelivr.net/gh/ryanoasis/nerd-fonts@2.0.0/patched-fonts/RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete.ttf") format('truetype');
